@@ -1,6 +1,6 @@
-#Classic-MVC-express aka example online-shop
+# Classic-MVC-express aka example online-shop
 
-#Install
+## Install
 
 npm install
 
